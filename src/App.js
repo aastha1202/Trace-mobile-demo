@@ -27,7 +27,6 @@ function App() {
     { name: "shirts", "Count of Items": 4, "Avg Age of Items": 4.5 },
     { name: "pants", "Count of Items": 4, "Avg Age of Items": 6.5 },
     { name: "dresses", "Count of Items": 3, "Avg Age of Items": 6.5 },
-    // Add more data as needed
   ];
   return (
     <div className="App">
