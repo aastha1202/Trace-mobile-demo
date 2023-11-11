@@ -1,5 +1,7 @@
 .App {
    margin: 20px;  
+   width: 30%;
+   margin: 0 auto;
 }
 
 .colors{
